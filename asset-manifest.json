@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/price-TO/static/css/main.8acc2689.chunk.css",
+    "main.js": "/price-TO/static/js/main.d6394444.chunk.js",
+    "main.js.map": "/price-TO/static/js/main.d6394444.chunk.js.map",
+    "runtime-main.js": "/price-TO/static/js/runtime-main.30feddb8.js",
+    "runtime-main.js.map": "/price-TO/static/js/runtime-main.30feddb8.js.map",
+    "static/css/2.04d7fb98.chunk.css": "/price-TO/static/css/2.04d7fb98.chunk.css",
+    "static/js/2.f14cf6a0.chunk.js": "/price-TO/static/js/2.f14cf6a0.chunk.js",
+    "static/js/2.f14cf6a0.chunk.js.map": "/price-TO/static/js/2.f14cf6a0.chunk.js.map",
+    "static/js/3.7f46bd80.chunk.js": "/price-TO/static/js/3.7f46bd80.chunk.js",
+    "static/js/3.7f46bd80.chunk.js.map": "/price-TO/static/js/3.7f46bd80.chunk.js.map",
+    "index.html": "/price-TO/index.html",
+    "static/css/2.04d7fb98.chunk.css.map": "/price-TO/static/css/2.04d7fb98.chunk.css.map",
+    "static/css/main.8acc2689.chunk.css.map": "/price-TO/static/css/main.8acc2689.chunk.css.map",
+    "static/js/2.f14cf6a0.chunk.js.LICENSE.txt": "/price-TO/static/js/2.f14cf6a0.chunk.js.LICENSE.txt",
+    "static/media/logo_carvin.8eeb4b37.svg": "/price-TO/static/media/logo_carvin.8eeb4b37.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30feddb8.js",
+    "static/css/2.04d7fb98.chunk.css",
+    "static/js/2.f14cf6a0.chunk.js",
+    "static/css/main.8acc2689.chunk.css",
+    "static/js/main.d6394444.chunk.js"
+  ]
+}
